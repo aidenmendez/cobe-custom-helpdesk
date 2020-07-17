@@ -121,7 +121,7 @@
             },
             {
               "label": "Roboto",
-              "value": "'Roboto.ttf', 'Roboto-Light'"
+              "value": "'Roboto', 'Roboto-Light'"
             },
             {
               "label": "sans-serif",
