@@ -1,6 +1,6 @@
 {
-  "name": "Copenhagen-custom",
-  "author": "Zendesk",
+  "name": "Copenhagen-Cobe-custom",
+  "author": "Zendesk/ Aiden M",
   "version": "2.2.1",
   "api_version": 2,
   "default_locale": "en-us",
@@ -118,6 +118,14 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Roboto",
+              "value": "'Roboto', 'Roboto-Light', sans-serif"
+            },
+            {
+              "label": "sans-serif",
+              "value": "sans-serif, Arial"
             }
           ]
         },
@@ -191,6 +199,14 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Roboto",
+              "value": "'Roboto', 'Roboto-Light', sans-serif"
+            },
+            {
+              "label": "sans-serif",
+              "value": "sans-serif, Arial"
             }
           ]
         }
