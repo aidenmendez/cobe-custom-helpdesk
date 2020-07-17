@@ -118,17 +118,15 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Roboto",
+              "value": "'Roboto.ttf', 'Roboto-Light'"
+            },
+            {
+              "label": "sans-serif",
+              "value": "sans-serif, Arial"
             }
-
-            // Removed from settings. Not sure how to connect font files to manifest.json.
-            // {
-            //   "label": "Roboto",
-            //   "value": "'Roboto.ttf', 'Roboto-Light'"
-            // },
-            // {
-            //   "label": "sans-serif",
-            //   "value": "sans-serif, Arial"
-            // }
           ]
         },
         {
@@ -201,15 +199,15 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Roboto",
+              "value": "'Roboto', 'Roboto-Light', sans-serif"
+            },
+            {
+              "label": "sans-serif",
+              "value": "sans-serif, Arial"
             }
-            // {
-            //   "label": "Roboto",
-            //   "value": "'Roboto', 'Roboto-Light', sans-serif"
-            // },
-            // {
-            //   "label": "sans-serif",
-            //   "value": "sans-serif, Arial"
-            // }
           ]
         }
       ]
