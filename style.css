@@ -189,7 +189,7 @@ template {
 body {
   background-color: $background_color;
   color: $text_color;
-  font-family: $text_font;
+  font-family: sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
@@ -203,7 +203,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $heading_font;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-top: 0;
 }
@@ -2254,7 +2254,7 @@ ul {
   content: attr(data-follower-count);
   color: $brand_color;
   display: inline-block;
-  font-family: $heading_font;
+  font-family: 'Roboto', sans-serif;
   margin-left: 15px;
   padding-left: 10px;
   position: absolute;
@@ -2522,7 +2522,7 @@ ul {
 }
 
 .post-content {
-  font-family: $text_font;
+  font-family: sans-serif;
   line-height: 1.6;
   word-break: break-word;
 }
