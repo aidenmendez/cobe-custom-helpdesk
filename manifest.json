@@ -1,7 +1,7 @@
 {
   "name": "Copenhagen-Cobe-custom",
   "author": "Zendesk/ Aiden M",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [

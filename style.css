@@ -830,7 +830,7 @@ ul {
 }
 
 .footer-logo {
-  height: auto;
+  height: 60px;
   width: auto;
   display: inline-block;
   margin-left: auto;
@@ -934,7 +934,7 @@ display: inline-block;
 
 .search-icon {
   position: relative;
-  top: 50%;
+  top: 88.5%;
   transform: translateY(-50%);
   position: absolute;
   left: 15px;
@@ -958,16 +958,22 @@ display: inline-block;
   background-image: url($homepage_background_image);
   background-position: center;
   background-size: cover;
-  
+  height: 100vh;
+  width: 100%;
   padding: 0 20px;
   text-align: center;
-  /* width: 100%; */
 }
 
-#main-content {
+.hero-text {
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-size: 60px;
+  display: inline-block;
+}
+/* #main-content {
   height: 100%;
   width: auto;
-}
+} */
 
 .hero-inner {
   position: relative;
