@@ -621,7 +621,7 @@ ul {
   display: inline-block;
   position: absolute;
   white-space: nowrap;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-decoration: none;
   font-family: "Montserrat", sans-serif;
 }
@@ -774,6 +774,7 @@ ul {
 #user #user-name {
   display: none;
   font-size: 14px;
+  
 }
 
 @media (min-width: 768px) {
