@@ -834,14 +834,16 @@ ul {
   height: 60px;
   width: auto;
   display: block;
-  margin-left: 50%;
+  margin-left: auto;
   margin-right: auto;
   margin-bottom: 2%;
 }
 
 .copy-text {
 	display: block;
-	text-align: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* .footer a {
