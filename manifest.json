@@ -1,7 +1,7 @@
 {
   "name": "Cobe-custom-helpdesk",
   "author": "Zendesk/ Aiden M",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [
@@ -220,6 +220,11 @@
           "type": "file",
           "description": "logo_description",
           "label": "logo_label"
+        },{
+          "identifier": "mobile_logo",
+          "type": "file",
+          "description": "mobile_logo_description",
+          "label": "mobile_logo_label"
         },
         {
           "identifier": "favicon",

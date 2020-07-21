@@ -617,6 +617,32 @@ ul {
   max-height: 37px;
 }
 
+.mobile-logo {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    display: none;
+  }
+
+  .mobile-logo {
+    display: inline;
+    max-height: 18px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .logo {
+    display: none;
+  }
+
+  .mobile-logo {
+    display: inline;
+    max-height: 28px;
+  }
+}
+
 .user-nav {
   display: inline-block;
   position: absolute;
@@ -975,6 +1001,12 @@ ul {
   color: #fff;
   font-size: 60px;
   display: inline-block;
+}
+
+@media (min-width: 768px) {
+  .hero-text {
+    font-size: 40px;
+  }
 }
 /* #main-content {
   height: 100%;
