@@ -220,11 +220,6 @@
           "type": "file",
           "description": "logo_description",
           "label": "logo_label"
-        },{
-          "identifier": "mobile_logo",
-          "type": "file",
-          "description": "mobile_logo_description",
-          "label": "mobile_logo_label"
         },
         {
           "identifier": "favicon",
