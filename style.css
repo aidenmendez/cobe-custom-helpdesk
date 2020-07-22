@@ -3045,6 +3045,9 @@ ul {
 .requests-search {
   width: 100%;
 }
+#request-search-icon {
+  top: 53% !important;
+}
 
 .requests-table-toolbar {
   align-items: flex-end;
