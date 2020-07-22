@@ -953,7 +953,7 @@ ul {
 
 .search-icon {
   position: relative;
-  top: 88.5%;
+  top: 85%;
   transform: translateY(-50%);
   position: absolute;
   left: 15px;
@@ -990,9 +990,12 @@ ul {
   display: inline-block;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .hero-text {
     font-size: 40px;
+  }
+  .search-icon {
+    top: 92%;
   }
 }
 /* #main-content {
@@ -1262,7 +1265,7 @@ ul {
 }
 
 .community-image {
-  min-height: 300px;
+  min-height: 450px;
   background-image: url($community_image);
   background-position: center;
   background-repeat: no-repeat;
