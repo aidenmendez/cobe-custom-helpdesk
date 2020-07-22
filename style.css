@@ -852,6 +852,13 @@ ul {
   margin-bottom: 2%;
 }
 
+@media (max-width: 768px) {
+  .footer-logo {
+    height: 40px;
+    width: auto;
+  }
+}
+
 .copy-text {
 	display: block;
   text-align: center;
@@ -953,7 +960,7 @@ ul {
 
 .search-icon {
   position: relative;
-  top: 85%;
+  top: 88%;
   transform: translateY(-50%);
   position: absolute;
   left: 15px;
@@ -995,7 +1002,7 @@ ul {
     font-size: 40px;
   }
   .search-icon {
-    top: 92%;
+    top: 85%;
   }
 }
 /* #main-content {
